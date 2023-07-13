@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Bearded Theme Surprising Blueberry",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'Fira Code'",
+    "workbench.productIconTheme": "Default",
+    "editor.fontWeight": "550",
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "editor.fontSize": 14,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "discord.detailsDebugging": "💡Editing: x {file_name}",
+    "discord.detailsEditing": "💡Editing: x {file_name}",
+    "discord.detailsIdling": "untitled",
+    "discord.idleTimeout": 21600,
+    "discord.largeImage": "{LANG}",
+    "discord.largeImageIdling": "あなたの忘れられた夢",
+    "discord.lowerDetailsDebugging": "📁Workspace: x {workspace}",
+    "discord.lowerDetailsEditing": "📁Workspace: x {workspace}",
+    "discord.lowerDetailsIdling": "unknown",
+    "vsicons.dontShowNewVersionMessage": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
+    "window.zoomLevel": 1,
+    "vscode-autosave.debounceMs": 1,
+    "files.autoSave": "afterDelay"
+}
