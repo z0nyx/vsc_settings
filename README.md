@@ -13,7 +13,7 @@
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-[Svg Preview]https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+[Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 
 # Themes / Icons
 [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
