@@ -16,7 +16,7 @@
 | **[Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)**
 
 ## Themes / Icons
-| **[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)**
+**[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)**
 | **[Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons)**
 | **[Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)**
 | **[SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)**
